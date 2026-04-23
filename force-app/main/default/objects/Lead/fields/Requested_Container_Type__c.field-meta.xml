@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Requested_Container_Type__c</fullName>
+    <label>Requested Container Type</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>8 ft</fullName>
+                <default>false</default>
+                <label>8 ft</label>
+            </value>
+            <value>
+                <fullName>12 ft</fullName>
+                <default>false</default>
+                <label>12 ft</label>
+            </value>
+            <value>
+                <fullName>16 ft</fullName>
+                <default>true</default>
+                <label>16 ft</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

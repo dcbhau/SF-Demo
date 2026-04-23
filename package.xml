@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ContainerRequestDomain</members>
+        <members>ContainerRequestDomainTest</members>
+        <members>LeadPortableStorageService</members>
+        <members>LeadPortableStorageServiceTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ContainerRequestTrigger</members>
+        <members>LeadTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Container_Request__c</members>
+        <members>Container_Inventory__c</members>
+        <members>Container_Pricing__mdt</members>
+        <members>Service_Location__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Container_Pricing.Eight_Ft</members>
+        <members>Container_Pricing.Sixteen_Ft</members>
+        <members>Container_Pricing.Twelve_Ft</members>
+        <name>CustomMetadata</name>
+    </types>
+    <version>61.0</version>
+</Package>

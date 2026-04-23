@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Sixteen Ft</label>
+    <protected>false</protected>
+    <values>
+        <field>Base_Price__c</field>
+        <value xsi:type="xsd:double" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">249.00</value>
+    </values>
+    <values>
+        <field>Container_Type__c</field>
+        <value xsi:type="xsd:string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">16 ft</value>
+    </values>
+</CustomMetadata>
